@@ -1,9 +1,8 @@
-# 💫 About Me
+## 💫 About Me
 
-Hi, I’m **Aditya Kumar**, a passionate **Full-Stack Web Developer** and **Computer Science & Engineering diploma student (2022–2025)**.  
-I enjoy building **real-world, scalable web applications** and continuously improving my **problem-solving and system design skills**.
+Hi, I’m **Aditya Kumar**, a passionate **Full-Stack Web Developer** with a strong foundation in **Computer Science**. I completed my **Polytechnic in Computer Science & Engineering under BTEUP** and am currently **pursuing a B.Tech in Computer Science & Engineering from AKTU**.
 
-I work across the **MERN stack** and modern web technologies, with hands-on experience in both **frontend and backend** development. I focus on writing **clean, maintainable code** and designing systems that are **practical, secure, and user-friendly**.
+I enjoy building **real-world, scalable web applications** and continuously improving my **problem-solving and system design** skills. I work across the **MERN stack** and modern web technologies, with hands-on experience in both **frontend and backend development**, focusing on **clean, maintainable, and secure code**.
 
 ---
 
