@@ -110,9 +110,9 @@ I'm **Aditya Kumar**, a **Full Stack Developer in Lucknow, India**. I build prod
 ## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [8 n8n Workflows I Built to Automate a Shopify Store (Abandoned Carts, Email Tracking & Analytics)](https://eraditya.vercel.app/blog/n8n-shopify-automation-workflows)
+- [8 n8n Workflows I Built to Automate a Shopify Store &lpar;Abandoned Carts, Email Tracking &amp; Analytics&rpar;](https://eraditya.vercel.app/blog/n8n-shopify-automation-workflows)
 - [I Turned My Portfolio Into an AI Agent with AG-UI and MCP](https://eraditya.vercel.app/blog/portfolio-ai-agent-ag-ui-mcp)
-- [How I Built a Scalable LMS with Next.js & Node.js](https://eraditya.vercel.app/blog/how-i-built-a-scalable-lms-with-nextjs)
+- [How I Built a Scalable LMS with Next.js &amp; Node.js](https://eraditya.vercel.app/blog/how-i-built-a-scalable-lms-with-nextjs)
 - [Observiq: Building a Social Intelligence and Plagiarism-Detection Platform](https://eraditya.vercel.app/blog/observiq-trubetix)
 - [Amplibuzz: Fixing Trust in Influencer Marketing with Escrow and Post Checks](https://eraditya.vercel.app/blog/amplibuzz)
 <!-- BLOG-POST-LIST:END -->
